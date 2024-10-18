@@ -56,5 +56,5 @@ Cela compile les fichiers source et génère un exécutable appelé slave dans l
 ###Les extensions : 
 **Achieve Persistence :** Cette extension vise à garantir que le malware reste actif même après un redémarrage de l'ordinateur. Les botnets peuvent devenir des sources fiables d'activité malveillante s'ils peuvent redémarrer automatiquement
 **Peer-to-Peer Network :** Un réseau P2P (peer-to-peer) permet à chaque nœud de communiquer directement avec d'autres nœuds sans passer par un serveur central. Cela renforce la résilience du botnet, car il n'y a pas de point unique de défaillance.
-**Add in Several Levels of Misdirection : ** La structure maître-esclave actuelle présente des vulnérabilités, car la désactivation du maître libère tous les esclaves, on peut ajouter des couces en rendant le chemin des commandes plus compliqué.
+**Add in Several Levels of Misdirection : ** La structure maître-esclave actuelle présente des vulnérabilités, car la désactivation du maître libère tous les esclaves, on peut ajouter des couces en rendant le chemin des commandes plus compliqué..
 
