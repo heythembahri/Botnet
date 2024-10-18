@@ -55,11 +55,11 @@ Parmi les botnets les plus connus figurent Mirai et Gameover Zeus, qui contrôle
 <br>
 Cela compile les fichiers source et génère un exécutable appelé slave dans le répertoire bin.
 
-##Déguiser le malware : 
+**Déguiser le malware : **
 -Il est possible de masquer un logiciel malveillant en le présentant comme une image, par exemple, une image d'un panda. Cela permet de tromper l'utilisateur en lui faisant croire qu'il ouvre simplement une image, alors qu'en réalité, il exécute un logiciel malveillant.
 ##Comment améliorer la robustesse du botnet ?<br>
 
-###Les extensions :  <br>
+**Les extensions :**  <br>
 **Achieve Persistence :** Cette extension vise à garantir que le malware reste actif même après un redémarrage de l'ordinateur. Les botnets peuvent devenir des sources fiables d'activité malveillante s'ils peuvent redémarrer automatiquement
 **Peer-to-Peer Network :** Un réseau P2P (peer-to-peer) permet à chaque nœud de communiquer directement avec d'autres nœuds sans passer par un serveur central. Cela renforce la résilience du botnet, car il n'y a pas de point unique de défaillance.
 **Add in Several Levels of Misdirection : ** La structure maître-esclave actuelle présente des vulnérabilités, car la désactivation du maître libère tous les esclaves, on peut ajouter des couces en rendant le chemin des commandes plus compliqué..
