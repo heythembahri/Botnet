@@ -43,6 +43,8 @@ Parmi les botnets les plus connus figurent Mirai et Gameover Zeus, qui contrôle
 
 -Vérifier si le message est bien ciblé.
 ![image](https://github.com/user-attachments/assets/238a3e31-8f8d-4f30-8a77-ced7aec64571)
+
+
 -La fonction execute() exécute la commande reçue en l'envoyant à la ligne de commande, puis envoie la sortie de la commande au maître.
 **Compilation :** 
 ![image](https://github.com/user-attachments/assets/1d00e074-db3b-4de9-8a7b-8349ae9137c9)
