@@ -40,6 +40,7 @@ Parmi les botnets les plus connus figurent Mirai et Gameover Zeus, qui contrôle
 **Receive() :** Cette fonction est appelée pour recevoir les données envoyées par le master via le socket. 
 **Parse() :** Après avoir reçu un message, cette fonction est appelée pour analyser le contenu du message reçu.
 ![image](https://github.com/user-attachments/assets/adece4bc-3e0e-4769-b63d-f9f5c239edff)
+
 -Vérifier si le message est bien ciblé.
 ![image](https://github.com/user-attachments/assets/238a3e31-8f8d-4f30-8a77-ced7aec64571)
 -La fonction execute() exécute la commande reçue en l'envoyant à la ligne de commande, puis envoie la sortie de la commande au maître.
